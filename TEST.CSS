@@ -114,38 +114,3 @@ header, section, footer, aside, nav, article, figure, figcaption {
     font-size: 80%;
     padding: 7px 0px 0px 20px;
 }
-footer {
-    margin: 10px auto 10px auto;
-    padding: 120px;
-    text-align: center;
-}
-p.span {
-    
-    margin-right: 10px;
-}
-span.One {
-    float: left;
-    font-size: 14px;
-}
-span.Two {
-    float: left;
-    font-size: 14px;
-    margin-left: 45px;
-}
-span.Three {
-    float: right;
-    font-size: 14px;
-}
-h2 {
-    color: blue;
-    font-weight: bold;
-    padding-left: 20px;
-}
-figcaption {
-    font-size: 18px;
-    font-weight: bold;
-    color: blue;
-}
-figcaption, p.one, p.two, p.three {
-    padding-left: 20px;
-}
